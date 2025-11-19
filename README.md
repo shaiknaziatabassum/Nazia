@@ -31,7 +31,7 @@
 <a href="https://github.com/shaiknaziatabassum?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
 <a href="https://github.com/shaiknaziatabassum?tab=repositories&amp;q=&amp;type=&amp;language=mysql&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> </a>
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-<a href="www.linkedin.com/in/shaik-nazia-tabassum"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="https://www.linkedin.com/in/shaik-nazia-tabassum/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href="https://x.com/naziatabassum03"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
 <a href="https://github.com/shaiknaziatabassum"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 
